@@ -1,92 +1,92 @@
-<h1 align="center">Hi there 👋, I'm Chirag Rathod</h1>
-<h3 align="center">📱 App Developer | Flutter & Android Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Chirag Rathod</h1>
+<h3 align="center">Senior Flutter Developer | BLoC • GetX • Firebase | 5+ Years Building Cross-Platform iOS & Android Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Flutter+Developer;Android+Developer;Firebase+%7C+MongoDB+%7C+SQLite;Always+learning+something+new" alt="Typing SVG" />
-</p>
-
----
-
-### 💫 About Me
-- 💻 App Developer building cross-platform apps with **Flutter**
-- 🌱 Also experienced in native **Android** development
-- 💬 Ask me about **Flutter**, **Android**, or **Firebase**
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/chirag-rathod-flutter)
-
----
-
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/chirag-rathod-flutter" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/chirag-rathodflutter" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rathodchiraga@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💻 Tech Stack
+### 🚀 About Me
 
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
+I build Flutter apps that people actually use.
 
-**Frameworks & Backend**
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+Over the past 5+ years, I've shipped **10 cross-platform apps** to the Google Play Store — from food & taxi delivery platforms to advertising systems and automotive services. I specialize in clean architecture, **BLoC** and **GetX** state management, and **Firebase**-powered backends.
 
-**Design Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
-</p>
+What drives me is the full journey: from understanding a user problem, to building a scalable solution, to watching real people use the app every day. I've worked across startups in Ahmedabad, Rajkot, and Jamnagar — collaborating with design, product, and backend teams to ship apps on time.
 
-**Tools & Platforms**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+📍 Based in Jamnagar, Gujarat, India
+💼 Currently open to new Flutter opportunities (remote or on-site)
 
 ---
 
-### 🚀 Featured Projects
-> Add 2–4 of your best repos here — this section gets recruiters' eyes faster than stats do.
+### 🛠️ Core Stack
 
-| Project | Description | Tech |
-|---|---|---|
-| [Project Name](https://github.com/chiragar) | One-line description of what it does | Flutter, Firebase |
-| [Project Name](https://github.com/chiragar) | One-line description of what it does | Flutter, SQLite |
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+- **State Management:** BLoC, GetX
+- **Backend:** Firebase (Firestore, Cloud Messaging, Auth)
+- **Platforms:** Cross-platform iOS & Android
+- **Languages:** Hindi (Full Professional), English (Professional Working), Gujarati (Native/Bilingual)
 
 ---
 
-### 📊 GitHub Stats
+### 📱 Apps Shipped
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chiragar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragar&theme=dark&hide_border=false" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=chiragar&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
+| App | Category |
+|---|---|
+| **JEX Movers** | Food / Taxi / Parcel delivery |
+| **JEX Driver** | Driver-side delivery app |
+| **JEX Ads** | Mobile advertising platform (Android/Java) |
+| **Atlas Motors** | Automotive services |
+| **Atlale** | Cross-platform app |
+| **TipupJa** | Cross-platform app |
+| **Clickawayja** | Cross-platform app |
+| **Let's Play** | Android app |
+| **CBM Calculator** | Utility app |
+| **CS Jobs** | Job listings app |
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=chiragar&icon=0&color=0" />
-  </a>
-</p>
+### 💼 Experience Highlights
 
-<p align="center"><i>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></i></p>
+**Smart WebTech** — *Flutter Developer* · Oct 2022 – Present
+- Led development of 3+ cross-platform apps (image sharing, POS, quiz) used by hundreds of daily active users
+- Reduced app state complexity by 40% by migrating legacy code to BLoC architecture
+- Integrated Firebase (Firestore, Cloud Messaging, Auth) for real-time sync, cutting support tickets by 25%
+
+**Tretanz Infotech** — *Mobile Application Developer* · Aug 2021 – Sep 2022
+- Built and shipped 3 apps including a home services platform and audio/video streaming app
+- Achieved <2s video load times on 4G via third-party streaming APIs
+- Led code reviews and established Flutter best practices for the team
+
+**GreenSpecks Media** — *Mobile Application Developer* · Mar 2020 – Jul 2021
+- Built JEX Movers, a multi-service food/taxi/parcel app, live on Google Play Store
+- Developed JEX Ads, an Android advertising platform reaching thousands of users
+- Improved app stability by 30% through crash analysis and performance optimization
+
+---
+
+### 🎓 Education
+
+- Master of Computer Application (MCA), Computer Software Engineering — JVIMS, Jamnagar (2013–2017)
+- Bachelor's Degree, Computer Software Engineering — Vidya Sagar Infotech College, Jamnagar (2010–2013)
+
+---
+
+### 📫 Let's Connect
+
+📧 **rathodchiraga@gmail.com** — open to opportunities
+🔗 [LinkedIn](https://www.linkedin.com/in/chirag-rathodflutter)
