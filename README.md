@@ -2,7 +2,7 @@
 <h3 align="center">Senior Flutter Developer | BLoC • GetX • Firebase | 5+ Years Building Cross-Platform iOS & Android Apps</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chirag-rathodflutter" target="_blank">
+  <a href="www.linkedin.com/in/chirag-rathod-flutter" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rathodchiraga@gmail.com">
